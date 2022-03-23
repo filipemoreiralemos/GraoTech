@@ -6,7 +6,7 @@
 <h4 align="center">
 Objetivos
 
-Construir um experiência completa para atrair leads para um negócio. 
+Construir uma experiência completa para atrair leads para um negócio. 
 
 Layout Responsivo para adaptação em diferentes tipos de tela.
 </h4>
