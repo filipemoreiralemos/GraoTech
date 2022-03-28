@@ -11,6 +11,9 @@ Construir uma experiência completa para atrair leads para um negócio.
 Layout Responsivo para adaptação em diferentes tipos de tela.
 </h4>
 
+<p>  
+https://graotech.vercel.app/#how-it-works </p>
+
 ![Resultado final do projeto](/img/GraoTech1.png) 
 <img src="/img/Graotech.png">
 
