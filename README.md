@@ -35,7 +35,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - CSS;
 - Bootstrap;
 - SVG;
-
+--------
 ---
 
           <b>FILIPE LEMOS </b>
