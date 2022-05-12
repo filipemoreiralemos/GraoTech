@@ -26,7 +26,7 @@ O site é composto por  seções diferentes:
 - **Serviços:** Exibe através de cards os diferentes serviços Disponiveis;
 - **Entre em contato :** Nessa área do site temos campo de contato , mapa e endereço;
 
----
+--
 
 ## 💼 Tecnologias utilizadas
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
